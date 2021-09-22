@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello There 👋
 
-<!--
-**BodaleDenis/BodaleDenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Denis  ! :smiley: :romania: <br>
+I'm a Software Developer. 🙂 <br>
+I'm *Really Interested* in **Software Development**  *Cryptography* **Computer Science* *Discrete Mathematics* 🖥️ <br>
+Feel Free to follow and ask me anything :question: <br>
+You Can **Contact** Me by using my **Gmail** Account Below 😎 <br>
 
-Here are some ideas to get you started:
+**GMail: bodaledenis.work@gmail.com** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;">
+  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-blue"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python3-brightgreen"/>
+  <img alt="Git" src="https://img.shields.io/badge/-GIT-black"/>
+</div>
+
+
+<br>
+
+![Denis's github stats](https://github-readme-stats.vercel.app/api?username=BodaleDenis&show_icons=true&theme=gotham) <br>
+[![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=BodaleDenis&theme=gotham&layout=compact)](https://github.com/BodaleDenis)
+<br>
+
+> “First, solve the problem.
+>  Then write the code.“
+> -  John Johnson
+
+<br>
