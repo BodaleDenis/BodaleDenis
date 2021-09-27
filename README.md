@@ -2,8 +2,9 @@
 
 I'm Denis  ! :smiley: :romania: <br>
 I'm a Software Developer. 🙂 <br>
-I'm *Really Interested* in **Software Development**  *Cryptography* **Computer Science* *Discrete Mathematics* 🖥️ <br>
-Feel Free to follow and ask me anything :question: <br>
+I like C++ and Python programming laguages <br>
+I'm passionate and interested about various CS topics like **Cryptography, Discrete Maths, AI, Blockchain, SW Development & SW Engineering** 🖥️ <br>
+Feel Free to follow and know each other :question: <br>
 You Can **Contact** Me by using my **Gmail** Account Below 😎 <br>
 
 **GMail: bodaledenis.work@gmail.com** 
